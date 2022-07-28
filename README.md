@@ -1,4 +1,4 @@
-![](/images/banner.png)
+![](/banner.png)
 
 Hi Im Laucsap 
 a programmer / coder
