@@ -3,7 +3,9 @@
 <h1 align="center">Hello, I'm Anine ^ ^</h1>
 <h3 align="center">A web engineer at Philippines</h3>
 
-- 🔭 I’m currently working on **Futr Artifial Conduit Models**
+Started Coding Since 6yo. I made App Check(Android app) When i was a kid.
+
+- 🔭 I’m currently working on **Futr Artificial Conduit Models**
 
 - 🌱 I’m currently learning **React Native, Java**
 
