@@ -61,6 +61,6 @@ Started coding at **6 years old**. My passion for technology began with small An
 
 Some of my advanced projects include:
 - **Futr Artificial Conduit Models**: A cutting-edge AI system I'm currently developing.
-- **ISE**: My own web framework and ecosystem, designed to simplify the development of dynamic web applications.
+- **ISE**: My own framework, language and ecosystem, designed to simplify the development of dynamic web-to-native applications.
 
 Check out more of my work at [actwu.github.io](actwu.github.io)
