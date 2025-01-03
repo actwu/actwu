@@ -2,7 +2,7 @@
 
 ![](/banner.png)
 
-<h1 align="center">Hello, I'm Anine ^ ^</h1>
+<h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">A passionate Web Engineer from the Philippines</h3>
 
 Started coding at **6 years old**, I developed my first app, **App Checker (Android)**, at a young age, sparking my love for technology and software development. Since then, I have built numerous projects in various domains, from games to advanced AI systems and web frameworks.
