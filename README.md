@@ -11,7 +11,7 @@ Started coding at **6 years old**. developed my first app, **App Checker (Androi
 
 Some of my advanced projects include:
 - **CodeEN Digital Omni Models**: A cutting-edge AI system I'm currently developing.
-- **ISE**: My own framework, language and ecosystem, designed to simplify the development of dynamic web-to-native applications under [***InShareByte***](insb.web.app).
+- **ISE**: My own framework, programming language and ecosystem, designed to simplify the development of dynamic web-to-native applications under [***InShareByte***](insb.web.app).
 
 - 🔭 I’m currently working on **CodeEN Digital Omni Models**, exploring innovation around AI systems.
 
