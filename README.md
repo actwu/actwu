@@ -11,7 +11,7 @@ My work spans from **AI-powered applications** to **custom-built programming fra
 ## ![](https://ise.web.app/icon/4.png) Award-Winning Work & Achievements  
 My work has been recognized for **cutting-edge innovation** and **design excellence**
 
-1. **Top 10 Canva Editors of 2024** – Recognized for advanced UI/UX design.  
+1. **Top 10 Canva Editors of 2023** – Recognized for advanced UI/UX design.  
 2. **Best Design Canva of 2022** – Awarded for creativity and interface development.  
 3. **CodeLit Code Elite & UI** – Recognized as a **top-tier developer in coding excellence**.  
 4. **KnL Best Designing** – Honored for next-level digital design.  
