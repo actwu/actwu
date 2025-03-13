@@ -1,4 +1,4 @@
-![](/banner.png)
+![](/banner.jpg)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE</h3>
