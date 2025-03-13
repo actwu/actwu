@@ -1,39 +1,42 @@
-
-
 ![](/banner.png)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
-<h3 align="center">A passionate Web Engineer from the Philippines</h3>
+<h3 align="center">Web Engineer | AI Developer | Creator of ISE</h3>
 
-Started coding at **6 years old**. developed my first app, **App Checker (Android)**, at a young age, sparking my love for technology and software development and passion for technology began with flow from small Android apps and games, and over the years, I’ve worked with clients and with diverse projects, including **web frameworks**, **mobile applications**, **Native APP**, **AI models**, **AC  models**, to **Operating Software System**.
+Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems**—transforming ideas into reality.  
 
-<h3 align="left">My Projects & Experience</h3>
+My work spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has always been to **break limits in coding speed, optimization, and design**, leading to the creation of **ISE**, a **high-speed** programming framework.
 
-Some of my advanced projects include:
-- **CodeEN Digital Omni Models**: A cutting-edge AI system I'm currently developing.
-- **ISE**: My own framework, programming language and ecosystem, designed to simplify the development of dynamic web-to-native applications under [***InShareByte***](insb.web.app).
+---
+## ![](https://ise.web.app/icon/4.png) Award-Winning Work & Achievements  
+My work has been recognized for **cutting-edge innovation** and **design excellence**
 
-- 🔭 I’m currently working on **CodeEN Digital Omni Models**, exploring innovation around AI systems.
+1. **Top 10 Canva Editors of 2024** – Recognized for advanced UI/UX design.  
+2. **Best Design Canva of 2022** – Awarded for creativity and interface development.  
+3. **CodeLit Code Elite & UI** – Recognized as a **top-tier developer in coding excellence**.  
+4. **KnL Best Designing** – Honored for next-level digital design.  
+5. **Created ISE – A 0.7s Programming Language** – **Engineered for ultra-fast processing**.  
+6. **Coded 227+ projects, 139+ graphics, and 1782+ personal designs**.  
+7. **Total 2300+ Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
 
-- 🌱 I’m currently re-learning **C**, **Assembly**, diving deeper into **AI & ML** and **Digital Omni Models**.
+🔹 **Built for performance. Designed for the future.**
 
-- 👯 I’m always looking to collaborate on **coding projects**, particularly in **AI**, **web development**, and **app design**.
+## ![](https://ise.web.app/icon/1.png) Projects & Experience  
+### Advanced Works
+- **CodeEN Digital Omni Models** – A next-gen **AI system** in development.  
+- **ISE** – A **programming framework & language** optimized for web-to-native apps under [***InShareByte***](https://insb.web.app).  
+- **Operating Software Systems** – Pushing the boundaries of **AI-powered OS development**.  
 
-- 👨‍💻 All of my projects are available at [My Porfolia](actwu.github.io)
+**Current Focus**:  
+- Expanding **CodeEN AI** and **ISE**.  
+- Advancing **C, Assembly, AI & ML** for next-gen applications.  
+- Open to collaborations in **AI, web dev, and high-performance app design**.  
 
-- 💬 Feel free to ask me about **ISE**, **JavaScript**, **Web Technologies**, **Voltos**, and my custom-built **AI models**.
+**Portfolio & Work**: [actwu.github.io](https://actwu.github.io)  
 
-- 📫 You can contact me at **imanine@duck.com**
+---
 
-- 📄 Know about my experiences and projects at [actwu.github.io](actwu.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ab16ajim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ab16ajim" height="30" width="40" /></a>
-<a href="https://fb.com/official.futr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.futr" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages & Tools i use and help:</h3>
+## ![](https://ise.web.app/icon/2.png) Technologies & Tools  
 <p align="left">
 <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -65,4 +68,12 @@ Some of my advanced projects include:
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-Check out more of my work at [actwu.github.io](actwu.github.io)
+---
+
+## ![](https://ise.web.app/icon/3.png) Connect with Me  
+<p align="left">
+  <a href="https://twitter.com/ab16ajim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ab16ajim" height="30" width="40"/></a>
+  <a href="https://fb.com/official.futr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.futr" height="30" width="40"/></a>
+</p>
+
+---
