@@ -17,7 +17,7 @@ My work has been recognized for **cutting-edge innovation** and **design excelle
 4. **KnL Best Designing** – Honored for next-level digital design.  
 5. **Created ISE – A 0.7s Programming Language** – **Engineered for ultra-fast processing**.  
 6. **Coded 227+ projects, 139+ graphics, and 1782+ personal designs**.  
-7. **Total 2300+ Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
+7. **Total 2,527+ Coding, Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
 
 🔹 **Built for performance. Designed for the future.**
 
