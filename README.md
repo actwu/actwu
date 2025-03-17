@@ -8,7 +8,9 @@ Started coding at **6 years old**, I built my first app, **App Checker (Android)
 My work spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has always been to **break limits in coding speed, optimization, and design**, leading to the creation of **ISE**, a **high-speed** programming framework.
 
 ---
-## ![](https://ise.web.app/icon/4.png) Award-Winning Work & Achievements  
+
+<img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/>
+## Award-Winning Work & Achievements  
 My work has been recognized for **cutting-edge innovation** and **design excellence**
 
 1. **Top 10 Canva Editors of 2023** – Recognized for advanced UI/UX design.  
@@ -21,7 +23,10 @@ My work has been recognized for **cutting-edge innovation** and **design excelle
 
 🔹 **Built for performance. Designed for the future.**
 
-## ![](https://ise.web.app/icon/1.png) Projects & Experience  
+
+<img src="https://ise.web.app/icon/2.png" alt="ise" width="40" height="40"/>
+
+## Projects & Experience  
 ### Advanced Works
 - **CodeEN Digital Omni Models** – A next-gen **AI system** in development.  
 - **ISE** – A **programming framework & language** optimized for web-to-native apps under [***InShareByte***](https://insb.web.app).  
@@ -36,7 +41,9 @@ My work has been recognized for **cutting-edge innovation** and **design excelle
 
 ---
 
-## ![](https://ise.web.app/icon/2.png) Technologies & Tools  
+<img src="https://ise.web.app/icon/3.png" alt="ise" width="40" height="40"/>
+
+## Technologies & Tools  
 <p align="left">
 <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -70,7 +77,9 @@ My work has been recognized for **cutting-edge innovation** and **design excelle
 
 ---
 
-## ![](https://ise.web.app/icon/3.png) Connect with Me  
+<img src="https://ise.web.app/icon/5.png" alt="ise" width="40" height="40"/>
+
+## Connect with Me  
 <p align="left">
   <a href="https://twitter.com/ab16ajim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ab16ajim" height="30" width="40"/></a>
   <a href="https://fb.com/official.futr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.futr" height="30" width="40"/></a>
