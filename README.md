@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE</h3>
 
-Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems**—transforming ideas into reality.  
+Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
 My work spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has always been to **break limits in coding speed, optimization, and design**, leading to the creation of **ISE**, a **high-speed** programming framework.
 
