@@ -1,7 +1,7 @@
 ![](/banner.jpg)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
-<h3 align="center">Web Engineer | AI Developer | Creator of ISE</h3>
+<h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
 
 Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
