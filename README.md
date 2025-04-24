@@ -5,19 +5,19 @@
 
 Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
-My work spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has always been to **break limits in coding speed, optimization, and design**, leading to the creation of **ISE**, a **high-speed** programming framework.
+My things i do spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has wants to **break limits in coding speed, optimization, and design**, help to creation like **ISE**, a **high-speed** programming framework. (Based on stats)
 
 ---
 
 <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/>
 
-## Award-Winning Work & Achievements  
-My work has been recognized for **cutting-edge innovation** and **design excellence**
+## Created & Achievements  
+My work has been recognized for **cutting-edge** and **design**
 
-1. **Top 10 Canva Editors of 2023** – Recognized for advanced UI/UX design.  
-2. **Best Design Canva of 2022** – Awarded for creativity and interface development.  
-3. **CodeLit Code Elite & UI** – Recognized as a **top-tier developer in coding excellence**.  
-4. **KnL Best Designing** – Honored for next-level digital design.  
+1. **Top 10 Canva Editors of 2023** – Recognized for UI/UX design.  
+2. **Best Design Canva of 2022** – For creativity and design development.  
+3. **CodeLit Code Elite & UI** – Recognized as a **Development excellence**.  
+4. **KnL Best Designing** – next-level digital design.  
 5. **Created ISE – A 0.7s Programming Language** – **Engineered for ultra-fast processing**.  
 6. **Coded 227+ projects, 139+ graphics, and 1782+ personal designs**.  
 7. **Total 2,527+ Coding, Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
