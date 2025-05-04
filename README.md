@@ -30,11 +30,11 @@ My work has been recognized for **cutting-edge** and **design**
 ## Projects & Experience  
 ### Advanced Works
 - **CodeEN Digital Omni Models** – A next-gen **AI system** in development.  
-- **ISE** – A **programming framework & language** optimized for web-to-native apps under [***InShareByte***](https://insb.web.app).  
+- **NUM** – A **programming framework & language** optimized for web-to-native system.
 - **Operating Software Systems** – Pushing the boundaries of **AI-powered OS development**.  
 
 **Current Focus**:  
-- Expanding **CodeEN AI** and **ISE**.  
+- Expanding **DO** and **NUM**.  
 - Advancing **C, Assembly, AI & ML** for next-gen applications.  
 - Open to collaborations in **AI, web dev, and high-performance app design**.  
 
