@@ -53,6 +53,12 @@ My work has been recognized for **cutting-edge** and **design**
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/i-made-a-frontal-version-of-the-bash-icon-for-better-v0-a3s16nut3ylc1.png?auto=webp&s=bd8de3f7a1e2eb3cab88b15388b0f635f9ae1300" alt="bash" width="40" height="40"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://webassembly.org/" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBc5WYokPoUQBFQGrI3bakJftl24F0MwsNPry4bXruA&s" alt="webassembly" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlQmMh6BmX_vfpaJ7ee0tINfhtrZRYVMNln48jn-czQ&s" alt="assembly" width="40" height="40"/>
+</a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 <a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBb8YkqrmoFjcMUJULGOJelB2xofORzok428pzl5FOCZ1jR6d6AlsapO6I1.UnqojcWdNNZUQOxtY.YjIfJF3TqY-&format=source" alt="canva" width="40" height="40"/> </a>
 <a href="https://www.gimp.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/01bfa5e6c4e40e46fdf54c2104633159b610097febd6651e73c928032f1b1f98/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f5468655f47494d505f69636f6e5f2d5f676e6f6d652e737667" alt="gimp" width="40" height="40"/> </a>
