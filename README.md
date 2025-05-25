@@ -55,6 +55,9 @@ My work has been recognized for **cutting-edge** and **design**
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/i-made-a-frontal-version-of-the-bash-icon-for-better-v0-a3s16nut3ylc1.png?auto=webp&s=bd8de3f7a1e2eb3cab88b15388b0f635f9ae1300" alt="bash" width="40" height="40"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" alt="webassembly" width="40" height="40"/>
+</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBc5WYokPoUQBFQGrI3bakJftl24F0MwsNPry4bXruA&s" alt="webassembly" width="40" height="40"/>
