@@ -49,6 +49,9 @@ My work has been recognized for **cutting-edge** and **design**
 <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
 <a href="https://iselang.github.io/num" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/fa/3.png" alt="ise" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
+<a href="https://clerk.com" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLefVjZLnEp6BMQLu2S7hZotkkDpGscmYufO3zt8ELIzx8gjGpq4LALTs&s=10" alt="clerk auth" width="40" height="40"/>
+</a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/i-made-a-frontal-version-of-the-bash-icon-for-better-v0-a3s16nut3ylc1.png?auto=webp&s=bd8de3f7a1e2eb3cab88b15388b0f635f9ae1300" alt="bash" width="40" height="40"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
