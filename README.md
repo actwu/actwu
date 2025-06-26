@@ -1,3 +1,5 @@
+I made NUMlang ![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)
+
 ![](/banner.jpg)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
