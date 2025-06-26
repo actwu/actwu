@@ -5,7 +5,7 @@ I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
 
-Started coding at **6 years old**, I built my first app, **App Checker (Android)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
+Started coding at **6 years old** and built my first app, **App Checker (Android/APK)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
 My things i do spans from **AI-powered applications** to **custom-built programming frameworks**, with a focus on **efficiency, speed, and seamless integration** between systems. My passion has wants to **break limits in coding speed, optimization, and design**, help to creation like **ISE**, a **high-speed** programming framework. (Based on stats)
 
@@ -31,8 +31,8 @@ My work has been recognized for **cutting-edge** and **design**
 
 ## Projects & Experience  
 ### Advanced Works
-- **CodeEN Digital Omni Models** – A next-gen **AI system** in development.  
-- **NUM** – A **programming framework & language** optimized for web-to-native system.
+- **Selhue Generative UI** – A next-gen **AI system** in development.  
+- **NUMlang** – A **programming framework & language** optimized for web-to-native system.
 - **Operating Software Systems** – Pushing the boundaries of **AI-powered OS development**.  
 
 **Current Focus**:  
