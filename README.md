@@ -1,4 +1,4 @@
-I made NUMlang ![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)
+I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
 
 ![](/banner.jpg)
 
