@@ -1,3 +1,6 @@
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+
 I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
 
 ![](/banner.jpg)
