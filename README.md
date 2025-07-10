@@ -24,8 +24,8 @@ My work has been recognized for **cutting-edge** and **design**
 3. **CodeLit Code Elite & UI** – Recognized as a **Development excellence**.  
 4. **KnL Best Designing** – next-level digital design.  
 5. **Created ISE – A 0.7s Programming Language** – **Engineered for ultra-fast processing**.  
-6. **Coded 227+ projects, 139+ graphics, and 1782+ personal designs**.  
-7. **Total 2,527+ Coding, Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
+6. **Coded 232+ projects, 139+ graphics, and 1782+ personal designs**.  
+7. **Total 3,007+ Coding, Design & Art Projects** – Proven expertise in **development, UI, and system optimization**.  
 
 🔹 **Built for performance. Designed for the future.**
 
