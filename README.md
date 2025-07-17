@@ -1,7 +1,11 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=blue&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=blue&style=flat) 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/actwu/actwu)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actwu&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](/banner.jpg)
 
