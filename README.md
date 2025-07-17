@@ -1,6 +1,8 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=blue&style=flat)
+
 ![](/banner.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Engineer;C+JS+HTML+CSS;Quality+>+Quantity;Actwu;aka+Nai;Coding+since+6+years+old;Web4+Developer;NUM+Language+Enthusiast;System+Maker;Clean+Code+Advocate;Never+Stop+Learning)
