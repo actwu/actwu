@@ -1,18 +1,22 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=actwu)](https://git.io/streak-stats)
-
-[![actwu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=actwu)](https://github.com/actwu)
+![](/banner.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Engineer;C+JS+HTML+CSS;Quality+>+Quantity;Actwu;aka+Nai;Coding+since+6+years+old;Web4+Developer;NUM+Language+Enthusiast;System+Maker;Clean+Code+Advocate;Never+Stop+Learning)
 
-I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
-
-![](/banner.jpg)
-
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=actwu)](https://git.io/streak-stats)
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=actwu&theme=github_dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actwu&theme=github-compact)
+
+
+I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
+
 
 Started coding at **6 years old** and built my first app, **App Checker (Android/APK)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
