@@ -5,7 +5,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/actwu/actwu)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actwu&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actwu&layout=compact&langs_count=8)](https://actwu.github.io)
 
 ![](/banner.jpg)
 
