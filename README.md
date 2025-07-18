@@ -1,16 +1,20 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=brightgreen&style=flat)  
+![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=brightgreen&style=flat)   [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
 <p align="left">
 <a href="mailto:imanine@duck.com" target="_blank">
   <img width="40" height="40"/ src="https://github.com/user-attachments/assets/658e7f14-6132-4d00-93e2-99fb98298f3f" />
 </a>
-</p>
+
+<a >
+<img src="https://camo.githubusercontent.com/8fa68c9d563f70e69397d39ba391e65524731fa0f12c5cd0c3aa1b322c2588a4/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d5765622b456e67696e6565723b432b4a532b48544d4c2b4353533b5175616c6974792b2533452b5175616e746974793b41637477753b616b612b4e61693b436f64696e672b73696e63652b362b79656172732b6f6c643b576562342b446576656c6f7065723b4e554d2b4c616e67756167652b456e74687573696173743b53797374656d2b4d616b65723b436c65616e2b436f64652b4164766f636174653b4e657665722b53746f702b4c6561726e696e67" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=Web+Engineer;C+JS+HTML+CSS;Quality+%3E+Quantity;Actwu;aka+Nai;Coding+since+6+years+old;Web4+Developer;NUM+Language+Enthusiast;System+Maker;Clean+Code+Advocate;Never+Stop+Learning" style="max-width: 100%;">
+</a>
+
+</p> 
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Engineer;C+JS+HTML+CSS;Quality+>+Quantity;Actwu;aka+Nai;Coding+since+6+years+old;Web4+Developer;NUM+Language+Enthusiast;System+Maker;Clean+Code+Advocate;Never+Stop+Learning)
 
 ![](/banner.jpg)
 
@@ -18,7 +22,7 @@
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
 
 
-I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
+I made NUMlang
 
 Started coding at **6 years old** and built my first app, **App Checker (Android/APK)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
