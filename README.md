@@ -2,20 +2,23 @@
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=brightgreen&style=flat)  
+<p align="left">
+<a href="mailto:imanine@duck.com" target="_blank">
+  <img width="40" height="40"/ src="https://github.com/user-attachments/assets/658e7f14-6132-4d00-93e2-99fb98298f3f" />
+</a>
+</p>
 
-![](/banner.jpg)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Engineer;C+JS+HTML+CSS;Quality+>+Quantity;Actwu;aka+Nai;Coding+since+6+years+old;Web4+Developer;NUM+Language+Enthusiast;System+Maker;Clean+Code+Advocate;Never+Stop+Learning)
+
+![](/banner.jpg)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=actwu&theme=github_dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actwu&theme=github-compact)
 
 I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
-
 
 Started coding at **6 years old** and built my first app, **App Checker (Android/APK)**, at a young age, marking the beginning of my journey into **software engineering**. Over the years, I have worked on **AI, web frameworks, mobile applications, OS development, and digital systems** transforming ideas into reality.  
 
@@ -101,11 +104,8 @@ My work has been recognized for **cutting-edge** and **design**
 
 ---
 
-<img src="https://ise.web.app/icon/5.png" alt="ise" width="40" height="40"/>
+<img src="https://ise.web.app/icon/4.png" alt="ise" width="40" height="40"/>
 
-## Connect with Me  
-<p align="left">
-<a href="https://twitter.com/ab16ajim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ab16ajim" height="30" width="40"/></a>
-</p>
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=actwu&theme=github_dark)
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actwu&theme=github-compact)
