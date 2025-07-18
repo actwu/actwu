@@ -1,7 +1,7 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=brightgreen&style=flat)  
 
 ![](/banner.jpg)
 
@@ -10,50 +10,9 @@
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
 <h3 align="center">Web Engineer | AI Developer | Creator of ISE & NUM</h3>
 
-<table data-sourcepos="13:1-17:112">
-<thead>
-<tr data-sourcepos="13:1-13:13">
-<th data-sourcepos="13:2-13:3"></th>
-<th data-sourcepos="13:5-13:6"></th>
-<th data-sourcepos="13:8-13:9"></th>
-<th data-sourcepos="13:11-13:12"></th>
-</tr>
-</thead>
-<tbody>
-<tr data-sourcepos="15:1-15:201">
-<td data-sourcepos="15:2-15:91">
-<img src="https://camo.githubusercontent.com/6ee3b867c18c1b2ee043168551622de5c29909787d7555fc00a826eef4f2e84c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616374777526636f6c6f723d627269676874677265656e267374796c653d666c6174" alt="Visitor Badge" data-canonical-src="https://komarev.com/ghpvc/?username=actwu&amp;color=brightgreen&amp;style=flat" style=" border:unset;max-width: 100%;">
-</td>
-<td data-sourcepos="15:93-15:199">
-
-<img src="https://camo.githubusercontent.com/68f3a1228a7f7b04ca11c5a696b3f69c47c13b9cede188d11e5e8b97cd4ffb64/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f61637477752f61637477753f636f6c6f723d627269676874677265656e267374796c653d666c6174" alt="GitHub last commit" data-canonical-src="https://img.shields.io/github/last-commit/actwu/actwu?color=brightgreen&amp;style=flat" style="max-width: 100%; outline:unset; border:unset;">
-</td>
-<td data-sourcepos="15:0-15:0"></td>
-<td data-sourcepos="15:0-15:0"></td>
-</tr>
-<tr data-sourcepos="16:1-16:131">
-<td data-sourcepos="16:1-16:129">
-<img src="https://camo.githubusercontent.com/ac3e7955535d60ab9517c9c2675d24a7840ffbd7dc19eb074bdd8e083d222753/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6163747775266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e69676874" alt="Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=actwu&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" style=" outline:unset; border:unset; max-width: 100%;">
-</td>
-<td data-sourcepos="16:0-16:0"></td>
-<td data-sourcepos="16:0-16:0"></td>
-<td data-sourcepos="16:0-16:0"></td>
-</tr>
-<tr data-sourcepos="17:1-17:112">
-<td data-sourcepos="17:1-17:111">
-<img src="https://camo.githubusercontent.com/18d7418e42bc22114e9bebf1e3973cdda6614e2b7cc57a4c2df6b8573a26fbee/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d6163747775267468656d653d746f6b796f6e69676874" alt="GitHub Streak" data-canonical-src="https://streak-stats.demolab.com/?user=actwu&amp;theme=tokyonight" style="outline:unset; border:unset; max-width: 100%;">
-</td>
-<td data-sourcepos="17:0-17:0"></td>
-<td data-sourcepos="17:0-17:0"></td>
-<td data-sourcepos="17:0-17:0"></td>
-</tr>
-</tbody>
-</table>
-
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=actwu&theme=github_dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actwu&theme=github-compact)
-
 
 I made NUMlang [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
 
