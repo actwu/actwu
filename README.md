@@ -13,10 +13,6 @@
 
 </p> 
 
-<style>
-a img {border-radius:15px;}
-</style>
-
 ![](/banner.png)
 
 <h1 align="center">Hello, I'm Nai ^ ^</h1>
@@ -125,10 +121,6 @@ My work has been recognized for **cutting-edge** and **design**
 
 <a href="https://htop.dev/" target="_blank" rel="noreferrer">
   <img src="https://www.myqnap.org/wp-content/uploads/htop-logo.png" alt="Htop" width="40" height="40"/>
-</a>
-
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRas2BUe83GTcYhaMtThEaOdSpxdaQyIjLYUvBcGc9Jbo4kIfzCJjydWk&s=10" alt="NPM" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
