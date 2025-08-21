@@ -106,6 +106,111 @@ My work has been recognized for **cutting-edge** and **design**
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+## What i also know
+
+<p align="left">
+  <a href="https://falconframework.org" target="_blank" rel="noreferrer">
+  <img src="https://falcon.readthedocs.io/en/latest/_images/falcon-logo.svg" alt="Falcon" width="40" height="40"/>
+</a>
+
+<a href="https://micro-editor.github.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/zyedidia/micro/raw/master/assets/logo.png" alt="Micro" width="40" height="40"/>
+</a>
+
+<a href="https://ranger.github.io/" target="_blank" rel="noreferrer">
+  <img src="https://ranger.github.io/_static/ranger_logo.png" alt="Ranger" width="40" height="40"/>
+</a>
+
+<a href="https://htop.dev/" target="_blank" rel="noreferrer">
+  <img src="https://htop.dev/images/htop_logo.png" alt="Htop" width="40" height="40"/>
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRas2BUe83GTcYhaMtThEaOdSpxdaQyIjLYUvBcGc9Jbo4kIfzCJjydWk&s=10" alt="NPM" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.svg" alt="Kotlin" width="40" height="40"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="Laravel" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40" height="40"/>
+</a>
+
+<a href="https://swift.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40" height="40"/>
+</a>
+
+<a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Perl-logo.svg" alt="Perl" width="40" height="40"/>
+</a>
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="40" height="40"/>
+</a>
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC5-mYp6MUr3gwXtuEmc4SlWIhhbOjS6jl-ihyO5aonafvLuispnsbh_g&s=10" alt="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="[https://.wikimedia.org/wikipedia/commons/6/67/Flask_logo.svg]()" alt="Flask" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.svg" alt="C#" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
+</p>
+
 ---
 
 <img src="https://ise.web.app/icon/4.png" alt="ise" width="40" height="40"/>
