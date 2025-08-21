@@ -13,8 +13,9 @@
 
 </p> 
 
-
-
+<style>
+a img {border-radius:15px;}
+</style>
 
 ![](/banner.png)
 
@@ -110,19 +111,20 @@ My work has been recognized for **cutting-edge** and **design**
 
 <p align="left">
   <a href="https://falconframework.org" target="_blank" rel="noreferrer">
-  <img src="https://falcon.readthedocs.io/en/latest/_images/falcon-logo.svg" alt="Falcon" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Breezeicons-apps-48-falkon.svg" alt="Falcon" width="40" height="40"/>
 </a>
 
 <a href="https://micro-editor.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/zyedidia/micro/raw/master/assets/logo.png" alt="Micro" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" alt="Micro" width="40" height="40"/>
 </a>
 
-<a href="https://ranger.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://ranger.github.io/_static/ranger_logo.png" alt="Ranger" width="40" height="40"/>
+<a href="https://github.com/jarun/nnn" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nnn_logo.svg/640px-Nnn_logo.svg.png"
+    alt="NNN" width="40" height="40"/>
 </a>
 
 <a href="https://htop.dev/" target="_blank" rel="noreferrer">
-  <img src="https://htop.dev/images/htop_logo.png" alt="Htop" width="40" height="40"/>
+  <img src="https://www.myqnap.org/wp-content/uploads/htop-logo.png" alt="Htop" width="40" height="40"/>
 </a>
 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
@@ -142,19 +144,19 @@ My work has been recognized for **cutting-edge** and **design**
 </a>
 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
 </a>
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpC1sFgROfSjPiP68q1dS1T-0bgmVnw6sEg&s" alt="Laravel" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVUjoUHuVvBFTP9BJREdBlpciXiduUMAwULWC9xSTIW9fAzANWgOR_3Yu&s=10" alt="MongoDB" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" alt="MySQL" width="40" height="40"/>
 </a>
 
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
@@ -162,11 +164,11 @@ My work has been recognized for **cutting-edge** and **design**
 </a>
 
 <a href="https://swift.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919833.png" alt="Swift" width="40" height="40"/>
 </a>
 
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Perl-logo.svg" alt="Perl" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Perl-logo.svg/1200px-Perl-logo.svg.png" alt="Perl" width="40" height="40"/>
 </a>
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -182,7 +184,7 @@ My work has been recognized for **cutting-edge** and **design**
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC5-mYp6MUr3gwXtuEmc4SlWIhhbOjS6jl-ihyO5aonafvLuispnsbh_g&s=10" alt="TypeScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -190,11 +192,11 @@ My work has been recognized for **cutting-edge** and **design**
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="[https://.wikimedia.org/wikipedia/commons/6/67/Flask_logo.svg]()" alt="Flask" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC5-mYp6MUr3gwXtuEmc4SlWIhhbOjS6jl-ihyO5aonafvLuispnsbh_g&s=10" alt="Flask" width="40" height="40"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.svg" alt="C#" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHayljw5Ckny6lO3tq2AAA39ejDPeLtaY9LPorbiHJ1akmbT60NdFeNuU&s=10" alt="C#" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -209,6 +211,7 @@ My work has been recognized for **cutting-edge** and **design**
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
 </a>
 
+<h3>And Many more.</h3>
 </p>
 
 ---
