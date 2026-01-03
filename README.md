@@ -8,8 +8,8 @@
 </p>
 
 <h1 align="center">Hello, I'm Nai </h1>
-<h6 style="font-size:8px" align="center">TITLED GIVEN AS </h6>
-<h3 align="center">Called A ​Multi-Million Asset OS Designer & Engineer
+<h6 style="font-size:8px" align="center">Recognized and titled as a </h6>
+<h3 align="center"> ​Multi-Million Asset OS Designer & Engineer<br>
 Building secure, high-flow systems since 2020. </h3>
 <p align="center">AI, Systems, Design & Beyond</p>
 
