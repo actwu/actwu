@@ -409,6 +409,4 @@ Main
 
 </p>
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=actwu&theme=github_dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=actwu&theme=github-compact)
