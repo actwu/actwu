@@ -12,6 +12,8 @@
 Building secure, high-flow systems since 2013. </h3>
 <p align="center">AI, Systems, Design & Beyond</p>
 
+# [![View Projects](https://img.shields.io/badge/View_Projects-purple)](https://iselang.github.io/num/)
+
 [![Language: .NUM](https://img.shields.io/badge/language-.NUMlang-purple)](https://iselang.github.io/num/)
 [![](https://img.shields.io/badge/My_Mail-blue)](mailto:imnai@duck.com) ![Visitor Badge](https://komarev.com/ghpvc/?username=actwu&color=brightgreen&style=flat) 
 
