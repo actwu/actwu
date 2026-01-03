@@ -7,13 +7,13 @@
 <!--img src="/banner.jpg"-->
 </p>
 
-<h1 align="center">Hello, I'm Nai </h1>
+<h1 align="center">Welcome 👋, I'm Nay </h1>
 <h6 style="font-size:8px" align="center">Recognized and titled as a </h6>
 <h3 align="center"> ​Multi-Million Asset OS Designer & Engineer<br>
 Building secure, high-flow systems since 2020. </h3>
 <p align="center">AI, Systems, Design & Beyond</p>
 
-<details style="text-align:center; max-width:900px; margin:0 auto;">
+<details style="text-align:center; justify-content:center; align-items:center; max-width:900px; margin:0 auto;">
   
   <summary>
     (valuation in Philippine Peso).<br><br>
