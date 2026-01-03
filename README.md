@@ -17,7 +17,7 @@ Building secure, high-flow systems since 2020. </h3>
   
   <summary>
     (valuation in Philippine Peso).<br><br>
-   <i> *Just saying purely. Hope you did not see as arrogant.</i>
+   <i> *Just stating purely. Hope you did not see as arrogant.</i>
   </summary>
   <p>
     I design, engineer, and architect full-stack systems ranging from UI frameworks and operating systems
@@ -66,7 +66,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     31) <a href="https://nay.web.app/list">CI Firebase GitHub</a><br>
     32) <a href="https://nay.web.app/list">Gabby AI</a><br>
     33) <a href="https://nay.web.app/list">Nay Security</a><br>
-
     34) <a href="https://nay.web.app/list">3DTEST</a><br>
     35) <a href="https://nay.web.app/list">2to3d</a><br>
     36) <a href="https://nay.web.app/list">Cordzip</a><br>
@@ -86,7 +85,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     50) <a href="https://nay.web.app/list">UI md</a><br>
     51) <a href="https://nay.web.app/list">AUTO UI by NUM</a><br>
     52) <a href="https://nay.web.app/list">Now UI</a><br>
-
     53) <a href="https://nay.web.app/list">ISE</a><br>
     54) <a href="https://nay.web.app/list">Loaf Language</a><br>
     55) <a href="https://nay.web.app/list">NUM Language</a><br>
@@ -97,7 +95,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     60) <a href="https://nay.web.app/list">Purpos</a><br>
     61) <a href="https://nay.web.app/list">MINT Version Control</a><br>
     62) <a href="https://nay.web.app/list">Marala</a><br>
-
     63) <a href="https://nay.web.app/list">App Checker</a><br>
     64) <a href="https://nay.web.app/list">App Edit</a><br>
     65) <a href="https://nay.web.app/list">Calculator</a><br>
@@ -138,7 +135,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     100) <a href="https://atstem.web.app/nearby">Nearby by Atstem</a><br>
     101) <a href="https://nay.web.app/list">Remis</a><br>
     102) <a href="https://lcup.web.app/panel">Panel</a><br>
-
     103) <a href="https://actwu.github.io/calc">Calkyo</a><br>
     104) <a href="https://nay.web.app/list">Nottle</a><br>
     105) <a href="https://actwu.web.app/api">Actwu APIs</a><br>
@@ -161,7 +157,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     122) <a href="https://nay.web.app/list">Pyu</a><br>
     123) <a href="https://nay.web.app/list">Fine DB</a><br>
     124) <a href="https://nay.web.app/list">Opt Web</a><br>
-
     125) <a href="https://lyche.li/yngh">yngh</a><br>
     126) <a href="https://nay.web.app/list">be:lieve</a><br>
     127) <a href="https://nay.web.app/list">Openrev</a><br>
@@ -205,7 +200,6 @@ I’ve worked at the browser and runtime level, which informs how I design web s
     165) <a href="https://nay.web.app/list">Life</a><br>
     166) <a href="https://weleap.web.app">Leap</a><br>
     167) <a href="https://uplance.web.app">Uplancer</a><br>
-
     168) <a href="https://nay.web.app/list">Omix Logo</a><br>
     169) <a href="https://nay.web.app/list">Omix Brander</a><br>
     170) <a href="https://nay.web.app/list">Omix Pager</a><br>
