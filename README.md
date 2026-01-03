@@ -11,16 +11,15 @@
 
 <h3 align="center"> 
   <i style="font-size:8px" >Recognized and titled as a </i><br>
-  ​Multi-Million Asset OS Designer & Engineer<br>
+  ​ OS Designer & Engineer<br>
 Building secure, high-flow systems since 2020. </h3>
 <p align="center">AI, Systems, Design & Beyond</p>
 
 <details style="text-align:center; justify-content:center; align-items:center; max-width:900px; margin:0 auto;">
   
   <summary>
-    (valuation in Philippine Peso).<br><br>
-   <i> *Just stating purely. Hope you did not see as arrogant.</i>
-  </summary>
+    (multi million evaluation in Philippine Peso).<br><br>
+     </summary>
   <p>
     I design, engineer, and architect full-stack systems ranging from UI frameworks and operating systems
     to AI platforms, languages, developer tooling, and large-scale web ecosystems.<br><br>
