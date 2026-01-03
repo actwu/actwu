@@ -12,16 +12,20 @@
 Building secure, high-flow systems since 2020. </h3>
 <p align="center">AI, Systems, Design & Beyond</p>
 
-<div style="text-align:center; max-width:900px; margin:0 auto;">
-  <p>
+<details style="text-align:center; max-width:900px; margin:0 auto;">
+  
+  <summary>
     (valuation in Philippine Peso).<br><br>
+   <i> *Just saying purely. Hope you did not see as arrogant.</i>
+  </summary>
+  <p>
     I design, engineer, and architect full-stack systems ranging from UI frameworks and operating systems
     to AI platforms, languages, developer tooling, and large-scale web ecosystems.<br><br>
     I read and modify browsers, which is why I understand how browsers work internally.<br><br>
     My work spans thousands of projects across public, private, proprietary, and NDA-restricted environments.
     This portfolio represents only a partial public-facing index of my work.
   </p>
-</div>
+</details>
 
 <details>
   <summary>••• Projects</summary>
