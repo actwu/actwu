@@ -21,7 +21,8 @@ Building secure, high-flow systems since 2020. </h3>
   <p>
     I design, engineer, and architect full-stack systems ranging from UI frameworks and operating systems
     to AI platforms, languages, developer tooling, and large-scale web ecosystems.<br><br>
-    I read and modify browsers, which is why I understand how browsers work internally.<br><br>
+I’ve worked at the browser and runtime level, which informs how I design web system
+    <br>
     My work spans thousands of projects across public, private, proprietary, and NDA-restricted environments.
     This portfolio represents only a partial public-facing index of my work.
   </p>
