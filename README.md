@@ -10,7 +10,7 @@
  
 
 <details>
-  <summary>••• Projects</summary>
+  <summary>••• 3080+ Projects</summary>
 
   <div>
     1) <a href="https://nay.web.app/list">Tic-Tac-Toe Game</a><br>
