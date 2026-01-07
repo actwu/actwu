@@ -1,3 +1,5 @@
+
+[![upt](https://img.shields.io/badge/Status-_LEFT_GIthub.-red)](https://iselang.github.io/num/)
 <h1 align="center">Well there👋, It's Nay!</h1>
 
 
