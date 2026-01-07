@@ -212,142 +212,122 @@
 
 
 <table align="center">
-  <tr>
-    <th>Systems</th>
-    <th>&nbsp;</th>
-    <th>Web Front-end</th>
-    <th>&nbsp;</th>
-    <th>Web Back-end</th>
-    <th>&nbsp;</th>
-    <th>AI & Native</th>
-    <th>&nbsp;</th>
-    <th>Tools</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Systems</th>
+      <th>&nbsp;</th>
+      <th>Web Front-end</th>
+      <th>&nbsp;</th>
+      <th>Web Back-end</th>
+      <th>&nbsp;</th>
+      <th>AI & Native</th>
+      <th>&nbsp;</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+      </td>
+    </tr>
 
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlQmMh6BmX_vfpaJ7ee0tINfhtrZRYVMNln48jn-czQ&s" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td align="center">MINT</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/ios-filled/100/console.png" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="https://ise.web.app/icon/1.png" width="40"/>
-    </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td align="center">
-      <!-- empty cell for spacing -->
-    </td>
-  </tr>
-
-  <!-- spacer row -->
-  <tr>
-    <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-    <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+   <tr>
+      <td align="center">
+        <a href="https://www.microsoft.com/windows" target="_blank" title="Windows"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlQmMh6BmX_vfpaJ7ee0tINfhtrZRYVMNln48jn-czQ&s" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://liveblocks.io/" target="_blank" title="Liveblocks"><img src="https://liveblocks.io/images/products/multiplayer.png"
+                                                      width="40" onerror="this.src='https://www.vectorlogo.zone/logos/liveblocks/liveblocks-icon.svg'"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://peerjs.com/" target="_blank" title="PeerJS"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.RmXpyh9zKGBFHjSBQAaxJAAAAA%3Fpid%3DApi&f=1&ipt=fc9f15f6cd4e41586aee872d4a742a44d1afb088326a2dc457be6eec2cd75aeb" width="40" onerror="this.src='https://www.vectorlogo.zone/logos/peerjs/peerjs-icon.svg'"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://developer.android.com/" target="_blank" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://www.canva.com/" target="_blank" title="Canva"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://bulma.io/" target="_blank" title="Bulma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40"/></a>
+      </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center">
+        <a href="https://nay.web.app/" target="_blank" title=" Mint">MINT</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
