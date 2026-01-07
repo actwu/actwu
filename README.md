@@ -2,7 +2,8 @@
 
 
 <h3 align="center">an OS designer & systems engineer building high-performance platforms</h3>
-<h4 align="center">Est. 2020 | Recognized as Multi-Million Asset Designer | Evaluated in PH Peso</h4>
+<h4 align="center">Est. 2020 | Started Coding since 6 Y.O</h4>
+ <h4 align="center"> Recognized as Multi-Million Asset Designer | Evaluated in PH Peso</h4>
  <a href="mailto:imnai@duck.com"><h4 align="center">📫 ****</h4></a>  
  
 
