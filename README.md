@@ -1,11 +1,11 @@
-
+`
 [![upt](https://img.shields.io/badge/Status-_LEFT_GIthub.-red)](https://iselang.github.io/num/)
 <h1 align="center">Well there👋, It's Nay!</h1>
 
 
 <h3 align="center">an OS designer & systems engineer building high-performance platforms</h3>
 <h4 align="center">Est. 2020 | Started Coding since 6 Y.O</h4>
- <h4 align="center"> Recognized as Multi-Million Asset Designer | Evaluated in PH Peso</h4>
+ <h4 align="center"> A 6 Digit Asset Venture Developer | Evaluated in PH Peso</h4>
  <a href="mailto:imnai@duck.com"><h4 align="center">📫 imnai@duck.com</h4></a>  
  
 
