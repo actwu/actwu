@@ -1,13 +1,10 @@
-`
 [![upt](https://img.shields.io/badge/Status-_LEFT_GIthub.-red)](https://iselang.github.io/num/)
-<h1 align="center">Well there👋, It's Nay!</h1>
-
+<h1 align="center">Well there👋, It's Yan!</h1>
 
 <h3 align="center">an OS designer & systems engineer building high-performance platforms</h3>
 <h4 align="center">Est. 2020 | Started Coding since 6 Y.O</h4>
  <h4 align="center"> A 6 Digit Asset Venture Developer | Evaluated in PH Peso</h4>
- <a href="mailto:imnai@duck.com"><h4 align="center">📫 ynpasc@gmail.com</h4></a>  
- 
+ <a href="mailto:ynpasc@gmail.com"><h4 align="center">📫 ynpasc@gmail.com</h4></a>  
 
 <details>
   <summary>••• 4230+ Projects</summary>
@@ -184,13 +181,11 @@
     169) <a href="https://nay.web.app/list">Omix Brander</a><br>
     170) <a href="https://nay.web.app/list">Omix Pager</a><br>
   </div>
-
 </details>
 
 - 🧠 I design operating systems, programming languages, and large-scale web systems
   
 - 📝 I document experiments, frameworks, and system concepts across public & NDA projects  
-
 
 - 🔭 Selected Projects
   * <a href="https://actwu.github.io/linux">Nai OS</a>  
@@ -209,7 +204,6 @@
   * <a href="https://nay.web.app">Portfolia</a>  
     A centralized index of public-facing projects, tools, and experiments  
     (subset of a much larger private and NDA-restricted body of work).
-
 
 <table align="center">
   <thead>
@@ -258,8 +252,7 @@
       </td>
       <td>&nbsp;</td>
       <td align="center">
-        <a href="https://liveblocks.io/" target="_blank" title="Liveblocks"><img src="https://liveblocks.io/images/products/multiplayer.png"
-                                                      width="40" onerror="this.src='https://www.vectorlogo.zone/logos/liveblocks/liveblocks-icon.svg'"/></a>
+        <a href="https://liveblocks.io/" target="_blank" title="Liveblocks"><img src="https://liveblocks.io/images/products/multiplayer.png" width="40" onerror="this.src='https://www.vectorlogo.zone/logos/liveblocks/liveblocks-icon.svg'"/></a>
       </td>
       <td>&nbsp;</td>
       <td align="center">
