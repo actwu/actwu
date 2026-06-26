@@ -3,7 +3,7 @@
 
 <h3 align="center">an OS designer & systems engineer building high-performance platforms</h3>
 <h4 align="center"> Started Coding since 6 Y.O</h4>
- <h4 align="center"> A 6 Digit Owner & Researcher </h4>
+ <h4 align="center"> Six-Figure Founder & Researcher </h4>
  <a href="mailto:ynpasc@gmail.com"><h4 align="center">📫 ynpasc@gmail.com</h4></a>  
 
 <details>
